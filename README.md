@@ -3,7 +3,7 @@ Projeto de modelagem de telas UI UX para sistema de controle de ativos do Sistem
 ## Acesso Rápido
 #### Você pode acessar e baixar todos os arquivos acima!
 
-><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/googledocs.png" height=30px width=30px>
+><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/googledoc.png" height=30px width=30px>
 >
 >[Termo de Abertura do Projeto](https://docs.google.com/document/d/1hTQMCL7dCPVtDrDyNwH6VzpmU1-dYxknjGw2LFuaa_g/edit?usp=sharing)
 >
