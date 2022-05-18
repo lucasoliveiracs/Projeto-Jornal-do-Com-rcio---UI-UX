@@ -3,11 +3,11 @@ Projeto de modelagem de telas UI UX para sistema de controle de ativos do Sistem
 ## Acesso Rápido
 #### Você pode acessar e baixar todos os arquivos acima!
 
-><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/camunda.png" height=30px width=30px>
+><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/googledocs.png" height=30px width=30px>
 >
 >[Termo de Abertura do Projeto](https://docs.google.com/document/d/1hTQMCL7dCPVtDrDyNwH6VzpmU1-dYxknjGw2LFuaa_g/edit?usp=sharing)
 >
-><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/camunda.png" height=30px width=30px>
+><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/figma.png" height=30px width=30px>
 >
 >[Prótotipo de Alta Fidelidade FIGMA](https://www.figma.com/file/YE2tyCaMSwerdGADGWQzzJ/Projeto-Controle-de-Ativos-SJCC?node-id=0%3A1)
 >
