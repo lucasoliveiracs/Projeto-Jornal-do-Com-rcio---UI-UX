@@ -1,7 +1,6 @@
 # Projeto Sistema Jornal do Comércio - UI UX
 Projeto de modelagem de telas UI UX para sistema de controle de ativos do Sistema Jornal do Comércio promovido entre parceira da Faculdade Senac Pernambuco e Porto Digital do Recife.
 ## Acesso Rápido
-#### Você pode acessar e baixar todos os arquivos acima!
 
 ><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/googledoc.png" height=30px width=30px>
 >
