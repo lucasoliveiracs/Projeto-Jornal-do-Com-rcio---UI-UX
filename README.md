@@ -11,6 +11,6 @@ Projeto de modelagem de telas UI UX para sistema de controle de ativos do Sistem
 >
 >[Prótotipo de Alta Fidelidade FIGMA](https://www.figma.com/file/YE2tyCaMSwerdGADGWQzzJ/Projeto-Controle-de-Ativos-SJCC?node-id=0%3A1)
 >
->><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/camunda.png" height=30px width=30px>
+><img src="https://github.com/lucasoliveiracs/Projeto-Jornal-do-Comercio-UI-UX/blob/main/img/camunda.png" height=30px width=30px>
 >
 >[Fluxo BPMN](https://cawemo.com/share/f4bd45b2-9631-4cc4-9321-c41fbc0e9de2)
